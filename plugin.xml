@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+  id="cordova-plugin-sszy"
+  version="1.0.0">
+  <name>sszy-http-process</name>
+  <license>Apache 2.0</license>
+
+  <js-module src="sszy.js" name="sszy">
+  </js-module>
+</plugin>

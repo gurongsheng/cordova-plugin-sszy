@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-sszy",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-sszy",
+    "platforms": [
+        "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "gurongsheng",
+  "license": "Apache 2.0"
+}
